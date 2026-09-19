@@ -16,6 +16,7 @@ deep-diving into generative AI and web application security. Always learning som
 
 ---
 
+
 ### 🚀 What I'm working on
 
 - Building backend systems with **Django, Celery, and Redis**, and exploring **FastAPI** and **HTMX**
@@ -24,7 +25,7 @@ deep-diving into generative AI and web application security. Always learning som
 - Learning **assembly language**, alongside existing **C** knowledge
 - Very flexible with deployment — comfortable across **AWS, Render, Vercel, DigitalOcean, and PythonAnywhere**
 - Open to freelance backend work and junior developer roles
-- 📄 [My Resume](#)
+- 📄 [My Resume](https://drive.google.com/file/d/1ofvH9ANSo5LbavTMih4oGXKyKiCRkILN/view?usp=drive_link)
 
 ---
 
@@ -53,13 +54,14 @@ deep-diving into generative AI and web application security. Always learning som
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://shields.io/badge/kubernetes-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
