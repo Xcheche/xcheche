@@ -3,7 +3,7 @@
 <h3 align="center">Backend Developer (Django & Python) · Web App Security Enthusiast</h3>
 
 <p align="center">
-Freelance backend developer based in Nigeria, and a final-year IT student at BYU-Pathway Worldwide / Ensign College.
+Freelance backend developer currently based in Nigeria.
 I build backend systems and APIs with Django and FastAPI, deploy across multiple cloud platforms, and I'm
 deep-diving into generative AI and web application security. Always learning something new.
 </p>
