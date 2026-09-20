@@ -60,6 +60,9 @@ deep-diving into generative AI and web application security. Always learning som
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/beautifulsoup4-white?style=for-the-badge&logo=python&logoColor=blue)
+![Requests](https://img.shields.io/badge/requests-white?style=for-the-badge&logo=python&logoColor=blue)
+![lxml](https://img.shields.io/badge/lxml-white?style=for-the-badge&logo=python&logoColor=green)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
