@@ -53,14 +53,19 @@ deep-diving into generative AI and web application security. Always learning som
 ![Render](https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)
+![DigitalOcean](https://img.shields.io/badge/digitalocean-%230167ff.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Hetzner](https://img.shields.io/badge/hetzner-%23D50C2D.svg?style=for-the-badge&logo=hetzner&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/beautifulsoup4-white?style=for-the-badge&logo=python&logoColor=blue)
+![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
 ![Requests](https://img.shields.io/badge/requests-white?style=for-the-badge&logo=python&logoColor=blue)
 ![lxml](https://img.shields.io/badge/lxml-white?style=for-the-badge&logo=python&logoColor=green)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
